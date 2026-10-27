@@ -14,6 +14,12 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+         tokyonight: {
+    title_color: "70a5fd",
+    icon_color: "bf91f3",
+    text_color: "38bdae",
+    bg_color: "1a1b27",
+  }
     <div align= "center"> <a href=https://blog.naver.com/abcde_027> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/abcde_027"> </a>
          <a href=https://abcde0127.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://abcde0127.tistory.com/"> </a>
          <a href=mailto:imys0127@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:imys0127@gmail.com"> </a>
