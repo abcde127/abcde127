@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=b7c8f0&height=180&text=Consistency%20beats%20intensity&animation=&fontColor=1d2e72&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=b7c8f0&height=180&text=Welcome%20Month%20Github&animation=&fontColor=1d2e72&fontSize=40" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
