@@ -1,7 +1,9 @@
-![Uploading WELCOME.png…]()
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=b4d2f9&height=180&text=🫧MONTH'S%20GITHUB🫧&animation=blink&fontColor=374476&fontSize=70" />
-    </div>
+
+
+<div align="center">
+    <img src="./WELCOME.png" width="100%" alt="WELCOME MONTH'S GITHUB" />
+</div>
+
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
