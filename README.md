@@ -8,7 +8,7 @@
 
 <!-- Tech Stacks -->
 <div align="left">
-    <h2>🛠️ Tech Stacks</h2>
+    <h2>🧩 Tech Stacks</h2>
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 <!-- Contact me -->
 <div align="left">
-    <h2>🧑‍💻 Contact me</h2>
+    <h2>🌱 Contact me</h2>
 </div>
 
 <div align="center">
@@ -47,7 +47,7 @@
 
 <!-- GitHub Stats -->
 <div align="left">
-    <h2>🏅 Stats</h2>
+    <h2>🖍️ Stats</h2>
 </div>
 
 <div align="center">
