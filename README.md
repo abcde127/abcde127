@@ -1,3 +1,4 @@
+![Uploading WELCOME.png…]()
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=b4d2f9&height=180&text=🫧MONTH'S%20GITHUB🫧&animation=blink&fontColor=374476&fontSize=70" />
     </div>
