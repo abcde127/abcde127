@@ -45,13 +45,15 @@
 
 <br>
 
+
 <!-- GitHub Stats -->
 <div align="left">
     <h2>🖍️ Stats</h2>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abcde127&bg_color=180,c4d5be,00000000&title_color=2f582c&text_color=2f582c">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcde127&layout=compact&bg_color=180,c4d5be,00000000&title_color=2f582c&text_color=2f582c">
+    <img src="https://github-stats-extended.vercel.app/api?username=abcde127&show_icons=true&bg_color=180,c4d5be,00000000&title_color=2f582c&text_color=2f582c" alt="GitHub Stats">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abcde127&layout=compact&bg_color=180,c4d5be,00000000&title_color=2f582c&text_color=2f582c" alt="Top Languages">
 </div>
+
 
